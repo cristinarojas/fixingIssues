@@ -2,10 +2,8 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-  border: 1px solid red;
+.App-mainLogo {
+  border: 1px solid blue;
 }
 
 @media (prefers-reduced-motion: no-preference) {
